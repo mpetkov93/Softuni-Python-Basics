@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31bd2992-2446-4e50-80d7-be05350d5abd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,22 +33,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.01.-Hello-SoftUni.executor": "Run",
-    "Python.02.-Nums-1...10.executor": "Run",
-    "Python.03.-Rectangle-Area.executor": "Run",
-    "Python.04. Inches-to-Centimeters.executor": "Run",
-    "Python.05.-Greeting-by-Name.executor": "Run",
-    "Python.06.-Concatenate-Data.executor": "Run",
-    "Python.07.-Projects-Creation.executor": "Run",
-    "Python.08.-Pet-Shop.executor": "Run",
-    "Python.09.-Yard-Greening.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.01.-Hello-SoftUni.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.-Nums-1...10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.-Rectangle-Area.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04. Inches-to-Centimeters.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05.-Greeting-by-Name.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06.-Concatenate-Data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07.-Projects-Creation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08.-Pet-Shop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.-Yard-Greening.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/cr0w-/OneDrive/Documents/GitHub/Softuni-Python-Basics/01.-First-Steps-in-Coding---Lab&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.09.-Yard-Greening">
     <configuration name="05.-Greeting-by-Name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="01.-First-Steps-in-Coding---Lab" />
@@ -174,7 +174,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
       </set>
     </attachedChunks>
   </component>
@@ -188,5 +188,16 @@
       <updated>1710243495837</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
